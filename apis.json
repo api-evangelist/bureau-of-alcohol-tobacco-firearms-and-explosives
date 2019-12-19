@@ -1,0 +1,290 @@
+{
+    "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+    "description": "<p>The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF, and BATFE) is a federal law enforcement organization within the United States Department of Justice.[4] Its responsibilities include the investigation and prevention of federal offenses involving the unlawful use, manufacture and possession of firearms and explosives; acts of arson and bombings; and illegal trafficking of alcohol and tobacco products. The ATF also regulates via licensing the sale, possession, and transportation of firearms, ammunition, and explosives in interstate commerce. Many of ATF's activities are carried out in conjunction with task forces made up of state and local law enforcement officers, such as Project Safe Neighborhoods. ATF operates a unique fire research laboratory in Beltsville, Maryland, where full-scale mock-ups of criminal arson can be reconstructed.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "general data",
+        "have api",
+        "historical data api",
+        "policing",
+        "surveillance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API for Top Recovery Cities For Firearms With A Recovery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-recovery-cities-for-firearms-with-a-recovery-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Top Categories Reported On Firearm Traces with a Recovery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-categories-reported-on-firearm-traces-with-a-recovery-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Pistols - Firearms Manufacturing Report",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-pistols--firearms-manufacturing-report-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Federal Firearms Licensees By State",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-by-state-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Federal Firearms Licensees",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Federal Firearms Licensees And Compliance Inspections",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-and-compliance-inspections-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API Time To Crime Rates For Firearms With A Recovery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-time-to-crime-rates-for-firearms-with-a-recovery-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Actions On Federal Firearms License Applications",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-actions-on-federal-firearms-license-applications-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for National Firearms Act Special Occupational Taxpayers By State",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-special-occupational-taxpayers-by-state-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for National Firearms Act Firearms Processed By Form Type",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-firearms-processed-by-form-type-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for National Firearms Act Tax Revenues And Related Activities",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-tax-revenues-and-related-activities-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Importation Applications",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-importation-applications-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Firearms Imports",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-imports-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Top 15 Source States with a Recovery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-15-source-states-with-a-recovery-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Firearms Types With A Recovery",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-types-with-a-recovery-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Firearms Imported Into The United States By Country",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-imported-into-the-united-states-by-country-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "API for Firearms Manufacturers Exports",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-manufacturers-exports-openapi.json"
+                }
+            ]
+        },
+        {
+            "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png",
+            "humanURL": "http:\/\/atf.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bureau-of-alcohol-tobacco-firearms-and-explosives-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/data.atf.gov\/developers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/atf.gov"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.atf.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Bureau_of_Alcohol,_Tobacco,_Firearms,_and_Explosives"
+        }
+    ]
+}
