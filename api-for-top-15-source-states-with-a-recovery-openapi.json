@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for Top 15 Source States with a Recovery",
+        "description": "A key component of the Bureau of Alcohol, Tobacco, Firearms and Explosives??? (ATF) enforcement mission is the tracing of firearms on behalf of thousands of Federal, State, local and foreign law enforcement agencies. Firearms trace data is critically important information developed by ATF. ATF has prepared the following state-by-state trace data which is intended to provide the public with insight into firearms recoveries.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
