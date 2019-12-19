@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for Importation Applications",
+        "description": "API for Exhibit 4 of annual ATF Commerce Report",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
