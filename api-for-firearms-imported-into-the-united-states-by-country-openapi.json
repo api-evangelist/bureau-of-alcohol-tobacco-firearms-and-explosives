@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for Firearms Imported Into The United States By Country",
+        "description": "API for Exhibit 5 of annual ATF Commerce Report",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
