@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for Federal Firearms Licensees And Compliance Inspections",
+        "description": "Based on Exhibit 13 on annual Commerce Report.",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
