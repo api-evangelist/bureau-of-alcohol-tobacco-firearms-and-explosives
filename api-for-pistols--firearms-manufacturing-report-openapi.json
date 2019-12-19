@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for Pistols - Firearms Manufacturing Report",
+        "description": "API for Firearms Manufacturing Report related to pistol manufacturing",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
