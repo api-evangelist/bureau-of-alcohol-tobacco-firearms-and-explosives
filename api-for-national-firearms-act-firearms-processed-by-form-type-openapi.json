@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "v1",
+        "title": "API for National Firearms Act Firearms Processed By Form Type",
+        "description": "API for Exhibit 7 of annual ATF Commerce Report",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsdata.atf.gov\/resource\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
