@@ -10,8 +10,8 @@
         "policing",
         "surveillance"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-20",
+    "modified": "2019-12-20",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -25,7 +25,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-recovery-cities-for-firearms-with-a-recovery-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-top-recovery-cities-for-firearms-with-a-recovery-openapi.json"
                 }
             ]
         },
@@ -39,7 +39,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-categories-reported-on-firearm-traces-with-a-recovery-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-top-categories-reported-on-firearm-traces-with-a-recovery-openapi.json"
                 }
             ]
         },
@@ -53,7 +53,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-pistols--firearms-manufacturing-report-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-pistols--firearms-manufacturing-report-openapi.json"
                 }
             ]
         },
@@ -67,7 +67,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-by-state-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-federal-firearms-licensees-by-state-openapi.json"
                 }
             ]
         },
@@ -81,7 +81,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-federal-firearms-licensees-openapi.json"
                 }
             ]
         },
@@ -95,7 +95,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-federal-firearms-licensees-and-compliance-inspections-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-federal-firearms-licensees-and-compliance-inspections-openapi.json"
                 }
             ]
         },
@@ -109,7 +109,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-time-to-crime-rates-for-firearms-with-a-recovery-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-time-to-crime-rates-for-firearms-with-a-recovery-openapi.json"
                 }
             ]
         },
@@ -123,7 +123,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-actions-on-federal-firearms-license-applications-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-actions-on-federal-firearms-license-applications-openapi.json"
                 }
             ]
         },
@@ -137,7 +137,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-special-occupational-taxpayers-by-state-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-national-firearms-act-special-occupational-taxpayers-by-state-openapi.json"
                 }
             ]
         },
@@ -151,7 +151,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-firearms-processed-by-form-type-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-national-firearms-act-firearms-processed-by-form-type-openapi.json"
                 }
             ]
         },
@@ -165,7 +165,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-national-firearms-act-tax-revenues-and-related-activities-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-national-firearms-act-tax-revenues-and-related-activities-openapi.json"
                 }
             ]
         },
@@ -179,7 +179,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-importation-applications-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-importation-applications-openapi.json"
                 }
             ]
         },
@@ -193,7 +193,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-imports-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-firearms-imports-openapi.json"
                 }
             ]
         },
@@ -207,7 +207,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-top-15-source-states-with-a-recovery-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-top-15-source-states-with-a-recovery-openapi.json"
                 }
             ]
         },
@@ -221,7 +221,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-types-with-a-recovery-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-firearms-types-with-a-recovery-openapi.json"
                 }
             ]
         },
@@ -235,7 +235,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-imported-into-the-united-states-by-country-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-firearms-imported-into-the-united-states-by-country-openapi.json"
                 }
             ]
         },
@@ -249,7 +249,7 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-for-firearms-manufacturers-exports-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/api-for-firearms-manufacturers-exports-openapi.json"
                 }
             ]
         },
@@ -263,13 +263,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bureau-of-alcohol-tobacco-firearms-and-explosives-openapi.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bureau-of-alcohol-tobacco-firearms-and-explosives\/master\/bureau-of-alcohol-tobacco-firearms-and-explosives-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Developers",
             "url": "https:\/\/data.atf.gov\/developers"
